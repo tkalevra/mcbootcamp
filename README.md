@@ -1,0 +1,2 @@
+# mcbootcamp
+discord-bootcamp
